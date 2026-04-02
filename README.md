@@ -49,6 +49,10 @@ The models are compared based on accuracy:
 * Random Forest Accuracy: %40
 * SVM Accuracy: %61
 
+compare both models using bar chart
+<img width="1002" height="613" alt="image" src="https://github.com/user-attachments/assets/8834280a-a0fc-472a-81b7-1e02eb6035bb" />
+
+
 
 output predicted
 <img width="825" height="642" alt="image" src="https://github.com/user-attachments/assets/fdcb19d0-241f-49cc-9613-8fd61a3a228e" />
